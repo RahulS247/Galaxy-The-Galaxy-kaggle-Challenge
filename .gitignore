@@ -3,3 +3,4 @@
 *.csv
 /images_training_rev1/*
 /images_test_rev1/*
+/.ipynb_checkpoints/*
